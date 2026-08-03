@@ -1,2 +1,2 @@
-# parallel-machine-scheduling-sdst-release-dates
-Instâncias e algoritmos para programação em máquinas paralelas com tempos de setup dependentes da sequência e datas de liberação.
+# Identical Parallel Machine Scheduling SDST and Release Dates
+# Instâncias e algoritmos para programação em máquinas paralelas idênticas com tempos de setup dependentes da sequência e datas de liberação.
