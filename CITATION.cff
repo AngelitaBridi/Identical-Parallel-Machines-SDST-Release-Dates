@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Se você utilizar este repositório em seu trabalho, por favor cite-o."
+title: "Programação em Máquinas Paralelas Idênticas com Setup Dependente da Sequência: Cenários com e sem Datas de Liberação"
+type: software
+authors:
+  - family-names: "Bridi"
+    given-names: "Angelita"
+repository-code: "https://github.com/AngelitaBridi/identical-parallel-machine-scheduling-sdst-release-dates"
